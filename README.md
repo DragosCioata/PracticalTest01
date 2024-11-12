@@ -1,2 +1,2 @@
 # PracticalTest01
-COLOCVIU EIM 12.Nov
+Nume: Cioata Prenume: Dragos Robert Grupa: 341C2
